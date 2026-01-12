@@ -3,6 +3,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+   int userChoice = 1;
+   final int CREATE_USER = 1;
+   final int EXIT = 7;
+   int userName;
+   int user_name;
 
 
 //        int max =  Integer.MIN_VALUE;
